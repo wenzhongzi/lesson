@@ -23,7 +23,7 @@ long long gcdEuclid(long long a, long long b) {
 ## 最小公倍数
 
 $$
-\operatorname{lcm}(a,b)=\frac{a}{\gcd(a,b)}\cdot b.
+\mathrm{lcm}(a,b)=\frac{a}{\gcd(a,b)}\cdot b.
 $$
 
 ```cpp
